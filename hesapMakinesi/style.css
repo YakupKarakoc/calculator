@@ -1,0 +1,38 @@
+body {
+    background-color: dimgray;
+    text-align: center;
+    font-size: 40px;
+}
+#b {
+    width: 120px;
+    height: 20px;}
+
+#buttonlar {
+    text-align: center;}
+.hesapM {
+    border: 2px solid khaki;
+    border-collapse: collapse;
+    border-radius: 5px;
+    text-align: center;
+    width: 500px;
+    background-color: aqua;
+    padding: 8px;
+    margin: auto;
+    font-size: 25px;}
+#gösterge {
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+#sonuç {
+    height: 22px;
+    border-radius: 40px;
+    font-size:25px;
+    width: 484px;}
+#b1 {
+    background-color: blue;
+    width: 120px;
+    height: 20px;}
+#b2 {
+    width: 120px;
+    height: 20px;
+    background-color: gray;}
